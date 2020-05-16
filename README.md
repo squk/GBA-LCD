@@ -74,12 +74,12 @@ super helpful when I was having trouble figuring out why my signals suddenly
 made no sense(my FFC was upside-down).  
 https://dragaosemchama.com/wp-content/uploads/2015/02/GBA-service-Manual.pdf
 
-# AlexiG's blog post
+## AlexiG's blog post
 Great explanation of some of the LCD interface's signals. Wish I had found this
 sooner:  
 https://www.insidegadgets.com/2019/08/08/playing-around-with-the-gba-lcd/
 
-#Sharp LQ035Q7DH07 TFT-LCD Datasheet
+## Sharp LQ035Q7DH07 TFT-LCD Datasheet
 An LCD datasheet from the same manufacturer as the GBA, although the LCD in the
 datasheet was manufactured 5-6 years after the Game Boy Advance.  
 https://www.mouser.com/datasheet/2/365/LQ035Q7DH07N_SPEC_LD-21910A-184021.pdf
