@@ -11,8 +11,8 @@ Potential model numbers: *LQU29B2DDO2P 18H00862812* or *QPWBH2218TPZZ*. Data-she
 |1|TST2|||
 |2|VSHD|||
 |3|DCLK|Pixel clock|Active on negative edge|
-|4|LP|Data latch of signal source driver (i.e pixel clock)|Active on negative edge|
-|5|PS|Power save signal|Active on negative edge|
+|4|LP|Data latch of signal source driver (i.e pixel clock)|Active on positive edge|
+|5|PS|Power save signal|Active on positive edge|
 |6|DGND|Digital ground||
 |7|VSHD|||
 |8|LDR5|Bit 4 of digital red||
@@ -31,7 +31,7 @@ Potential model numbers: *LQU29B2DDO2P 18H00862812* or *QPWBH2218TPZZ*. Data-she
 |21|LDB3|Bit 2 of digital blue||
 |22|LDB2|Bit 1 of digital blue||
 |23|LDB1|Bit 0 of digital blue||
-|24|SPL|Sampling start signal (HSYNC)|Active on negative edge|
+|24|SPL|Sampling start signal (HSYNC)|Active on positive edge|
 |25|CLS|Clock signal of gate driver||
 |26|SPS|Start signal of gate driver. f = 59.737Hz/ (i.e.  VSYNC)|Active on negative edge|
 |27|TST|||
